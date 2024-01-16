@@ -6,7 +6,7 @@ Senior System Analyst @InformaMarkets.
 [![Linkedin Badge](https://img.shields.io/badge/-Gregory%20Engraf-1652ba?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engraf/?locale=en_US)](https://www.linkedin.com/in/engraf/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gregory0409@gmail.com-de0d11?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:gregory0409@gmail.com)
 
-Software Engineer with over 10 years of experience, worked in some amazing companies, I've had my own business and I'm a self-taught programmer, with a passion for new technologies and my family. I'm always looking for the next level and excited about constant self-improvement.
+I'm a Software Engineer with over 12 years of experience with web applications, HTML, JavaScript, PHP and CSS and over 7 years of experience with Vue.js, PHP/Laravel, Typescript, and Node.js, I've had my own business, which offered web development applications as a service. I'm a self-taught programmer, with a passion for new technologies and excited about constant self-improvement.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Greg-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
