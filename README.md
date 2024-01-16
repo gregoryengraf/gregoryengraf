@@ -1,6 +1,6 @@
 # Gregory Engraf
 
-Senior System Analyst @InformaMarkets.
+Senior Software Engineer
 
 [![Twitter Badge](https://img.shields.io/badge/-@gregoryengraf-3477eb?style=flat-square&labelColor=3477eb&logo=twitter&logoColor=white&link=https://twitter.com/gregoryengraf)](https://twitter.com/gregoryengraf)
 [![Linkedin Badge](https://img.shields.io/badge/-Gregory%20Engraf-1652ba?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engraf/?locale=en_US)](https://www.linkedin.com/in/engraf/?locale=en_US)
