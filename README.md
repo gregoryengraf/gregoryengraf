@@ -3,7 +3,7 @@
 Senior System Analyst @InformaMarkets.
 
 [![Twitter Badge](https://img.shields.io/badge/-@gregoryengraf-3477eb?style=flat-square&labelColor=3477eb&logo=twitter&logoColor=white&link=https://twitter.com/gregoryengraf)](https://twitter.com/gregoryengraf)
-[![Linkedin Badge](https://img.shields.io/badge/-Gregory%20Engraf-1652ba?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryengraf/?locale=en_US)](https://www.linkedin.com/in/gregoryengraf/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-Gregory%20Engraf-1652ba?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engraf/?locale=en_US)](https://www.linkedin.com/in/engraf/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gregory0409@gmail.com-de0d11?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:gregory0409@gmail.com)
 
 Software Engineer with over 10 years of experience, worked in some amazing companies, I've had my own business and I'm a self-taught programmer, with a passion for new technologies and my family. I'm always looking for the next level and excited about constant self-improvement.
